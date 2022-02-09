@@ -19,6 +19,11 @@ I post articles on various Data Science topics, usually regarding a project I am
 - What is in your basket? — Instacart 2017 Item Recommendation
 - SMS Spam Collection Classification
 
+<br />
+<br />
+
+---
+
 ## Connect with me:
 
 [![website](./img/globe-light.svg)](https://adzict.github.io#gh-light-mode-only)
@@ -29,6 +34,20 @@ I post articles on various Data Science topics, usually regarding a project I am
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tanja-ad%C5%BEi%C4%87/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tanja-ad%C5%BEi%C4%87/#gh-dark-mode-only)
+
+<br />
+<br />
+
+---
+
+## My 2022 Goals
+
+-
+
+<br />
+<br />
+
+---
 
 
 ## Languages and Tools I use
