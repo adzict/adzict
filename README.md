@@ -32,20 +32,23 @@ I post articles on various Data Science topics, usually regarding a project I am
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tanja-ad%C5%BEi%C4%87/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tanja-ad%C5%BEi%C4%87/#gh-dark-mode-only)
 
-<br />
-<br />
-
 ---
 
 ## My 2022 Goals
 
--
-
-<br />
-<br />
+- Complete at least 5 projects based on real-world problems (using both SQL and Python)
+- Find a dream job or an internship as a Data Scientist | Data Analyst
+- Pefect my Deep Learning skills, as well as Web Scraping
 
 ---
 
+## Latest Blogs
+
+- [learning | Basic text preparation with spaCy](https://adzic-tanja.medium.com/learning-basic-text-preparation-with-spacy-df39a51c4dcd)
+- [project | What makes a movie a Box Office succes?](https://adzic-tanja.medium.com/project-what-makes-a-movie-a-box-office-succes-d5cc1dc3c5aa)
+- [how to | Cleaning and preparing a movie dataset](https://adzic-tanja.medium.com/how-to-cleaning-and-preparing-a-movie-dataset-5dce3cab86f8)
+
+---
 
 ## Languages and Tools I use
 
