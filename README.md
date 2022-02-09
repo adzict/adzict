@@ -19,9 +19,6 @@ I post articles on various Data Science topics, usually regarding a project I am
 - What is in your basket? — Instacart 2017 Item Recommendation
 - SMS Spam Collection Classification
 
-<br />
-<br />
-
 ---
 
 ## Connect with me:
