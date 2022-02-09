@@ -1,7 +1,6 @@
 ![header](img/header.png)
 
 # Hi there, I'm Tanja
-## Data Scientist | Data Analyst
 
 ## A little about me
 
