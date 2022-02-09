@@ -16,31 +16,31 @@ I post articles on various Data Science topics, usually regarding a project I am
 
 ## Projects I am currently working on
 
-- [What is in your basket? — Instacart 2017 Item Recommendation]
-- [SMS Spam Collection Classification]
+- What is in your basket? — Instacart 2017 Item Recommendation
+- SMS Spam Collection Classification
 
 ## Languages and Tools I use
 
-### Programming
+#### Programming
 - Python
 
-### Database
+#### Database
 - SQL
 
-### Data Wrangling
+#### Data Wrangling
 - Pandas
 - Numpy
 
-### Data Visualization
+#### Data Visualization
 - Seaborn
 - Matplotlib
 - plotly
 
-### Machine Learning and Deep Learning
+#### Machine Learning and Deep Learning
 - Scikit-Learn
 - Tensorflow
 - Keras
 
-### Natural Language Processing
+#### Natural Language Processing
 - spaCy
 - NLTK
