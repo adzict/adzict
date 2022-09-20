@@ -43,6 +43,7 @@ I post articles on various Data Science topics, usually regarding a project I am
 
 ## Latest Blogs
 
+- [project | Yelp Reviews Sentiment Analysis](https://adzic-tanja.medium.com/project-yelp-reviews-sentiment-analysis-80d067981c01)
 - [learning | Basic text preparation with spaCy](https://adzic-tanja.medium.com/learning-basic-text-preparation-with-spacy-df39a51c4dcd)
 - [project | What makes a movie a Box Office succes?](https://adzic-tanja.medium.com/project-what-makes-a-movie-a-box-office-succes-d5cc1dc3c5aa)
 - [how to | Cleaning and preparing a movie dataset](https://adzic-tanja.medium.com/how-to-cleaning-and-preparing-a-movie-dataset-5dce3cab86f8)
