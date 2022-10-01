@@ -12,10 +12,12 @@ I post articles on various Data Science topics, usually regarding a project I am
 
 - [Box Office Success Determinants](https://github.com/adzict/box_office_determinants)
 - [Yelp Reviews Sentiment Analysis](https://github.com/adzict/yelp_sentiment_analysis)
+- [What is in your basket? — Instacart Dataset Exploration](https://github.com/adzict/instacart_data_exploration)
 
 ## Projects I am currently working on
 
-- What is in your basket? — Instacart 2017 Item Recommendation
+- SQL Dataset Exploration Project
+- Tableau Visualization Project
 - SMS Spam Collection Classification
 
 ---
@@ -43,6 +45,7 @@ I post articles on various Data Science topics, usually regarding a project I am
 
 ## Latest Blogs
 
+- [What is in your basket? — Instacart Dataset Exploration](https://adzic-tanja.medium.com/what-is-in-your-basket-instacart-dataset-exploration-11eb9f123680)
 - [project | Yelp Reviews Sentiment Analysis](https://adzic-tanja.medium.com/project-yelp-reviews-sentiment-analysis-80d067981c01)
 - [learning | Basic text preparation with spaCy](https://adzic-tanja.medium.com/learning-basic-text-preparation-with-spacy-df39a51c4dcd)
 - [project | What makes a movie a Box Office succes?](https://adzic-tanja.medium.com/project-what-makes-a-movie-a-box-office-succes-d5cc1dc3c5aa)
