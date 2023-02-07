@@ -85,7 +85,7 @@ I post articles on various Data Science topics, usually regarding a project I am
 - spaCy
 - NLTK
 
-#### Aplication Deployment
+#### Application Deployment
 - Streamlit
 - Docker
 - AWS
