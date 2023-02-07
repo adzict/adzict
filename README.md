@@ -4,7 +4,13 @@
 
 ## A little about me
 
-I am a novice Data Scientist, with a documented experience in different projects. My Data Science journey started 2.5 years ago, and reached a point where I feel competent enough to tackle real-life data and business challenges. I enjoy working with data, providing relevant insights, as well as upgrading my knowledge on a regular basis (unlike my libraries!). Currently I am working on various projects, finishing my portfolio, and perfecting my data science skills. Also studying for technical interviews.
+I am a novice Data Scientist, with a documented experience in different projects. My Data Science journey started about 3 years ago with various coursework on relevant topics such as Python programming, Statistics and Probability, SQL, significant Python libraries for Data Science, and Tableau. During my learning journey I had a chance to work with mentors who guided and advised me on my end-to-end personal projects.
+
+Under the mentorship of a former Machine Learning Security at Twitter, I achieved prediction accuracy of 0.77 of a sentiment of the review on the YELP business reviews dataset, deployed an extensive business case analysis of the profit margins of box office successes, and gained critical insights on the customer behavior using the Instacart dataset.
+
+Under the mentorship of a Senior Data Scientist at AWS I deployed a streamlit app using Python and Docker that shows detailed stats of Data Science salaries based on user input, and deployed an unsupervised model that determines customer personas using feature engineering and clustering models
+
+I have reached a point where I feel competent enough to tackle real-life data and business challenges. I enjoy working with data, providing relevant insights, as well as upgrading my knowledge on a regular basis (unlike my libraries!). Currently I am working on additional personal projects, updating my blog, and perfecting my data science skills. Also studying for technical interviews.
 
 I post articles on various Data Science topics, usually regarding a project I am currently working on, or regarding a solution to a problem from a particular project.
 
@@ -13,12 +19,12 @@ I post articles on various Data Science topics, usually regarding a project I am
 - [Box Office Success Determinants](https://github.com/adzict/box_office_determinants)
 - [Yelp Reviews Sentiment Analysis](https://github.com/adzict/yelp_sentiment_analysis)
 - [What is in your basket? — Instacart Dataset Exploration](https://github.com/adzict/instacart_data_exploration)
+- [Data Science Salaries Streamlit App](https://github.com/adzict/data_science_salaries)
 
 ## Projects I am currently working on
 
-- SQL Dataset Exploration Project
+- Customer Segmentation using Unsupervised Learning
 - Tableau Visualization Project
-- SMS Spam Collection Classification
 
 ---
 
@@ -35,11 +41,11 @@ I post articles on various Data Science topics, usually regarding a project I am
 
 ---
 
-## My 2022 Goals
+## My 2023 Goals
 
 - Complete at least 5 projects based on real-world problems (using both SQL and Python)
-- Find a dream job or an internship as a Data Scientist | Data Analyst
-- Pefect my Deep Learning skills, as well as Web Scraping
+- Work in a team, enhance my skills, and experience, as well as solve real-world Data Science challenges
+- Get hands-on experience working on app deployment in a team
 
 ---
 
@@ -78,3 +84,8 @@ I post articles on various Data Science topics, usually regarding a project I am
 #### Natural Language Processing
 - spaCy
 - NLTK
+
+#### Aplication Deployment
+- Streamlit
+- Docker
+- AWS
