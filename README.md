@@ -20,6 +20,8 @@ I post articles on various Data Science topics, usually regarding a project I am
 - [Yelp Reviews Sentiment Analysis](https://github.com/adzict/yelp_sentiment_analysis)
 - [What is in your basket? — Instacart Dataset Exploration](https://github.com/adzict/instacart_data_exploration)
 - [Data Science Salaries Streamlit App](https://github.com/adzict/data_science_salaries)
+- [SMS Spam Classification](https://github.com/adzict/sms_spam_classification)
+- [Customer Segmentation using Unsupervised Learning](https://github.com/adzict/online_retail_customer_segmentation)
 
 ## Projects I am currently working on
 
@@ -51,6 +53,7 @@ I post articles on various Data Science topics, usually regarding a project I am
 
 ## Latest Blogs
 
+- [Deploying a Streamlit App using Docker, AWS ECR and EC2](https://medium.com/@adzic-tanja/deploying-a-streamlit-app-using-docker-aws-ecr-and-ec2-ad6c15a0b225)
 - [What is in your basket? — Instacart Dataset Exploration](https://adzic-tanja.medium.com/what-is-in-your-basket-instacart-dataset-exploration-11eb9f123680)
 - [project | Yelp Reviews Sentiment Analysis](https://adzic-tanja.medium.com/project-yelp-reviews-sentiment-analysis-80d067981c01)
 - [learning | Basic text preparation with spaCy](https://adzic-tanja.medium.com/learning-basic-text-preparation-with-spacy-df39a51c4dcd)
