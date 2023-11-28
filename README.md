@@ -4,7 +4,7 @@
 
 ## About me
 
-Passionate about leveraging data to make a positive impact, I am an experienced Data Scientist with a track record of client-oriented contracts, specializing in prediction and forecasting, data analysis, and proficient database handling. Integrating hands-on experience from various client projects, I have also had the privilege of working with seasoned data science mentors who guided me through various projects.
+Passionate about leveraging data to make a positive impact, I am a Data Scientist with a track record of client-oriented contracts, specializing in prediction and forecasting, data analysis, and proficient database handling. Integrating hands-on experience from various client projects, I have also had the privilege of working with seasoned data science mentors who guided me through various projects.
 
 Besides client contracts, I am currently taking the initiative to create and deploy a test version of a data-driven application in Python, addressing the specific needs of a Mental Health Business in Serbia. This independent project showcases my proactive approach to applying my skills in real-world scenarios. My dedication to professional growth has led me to transition into a data engineering career, actively learning about ETL and ELT processes, mastering Data Pipelines, and exploring tools like Spark and Airflow. I am excited about the prospect of contributing my diverse skill set to further advance your organization's data initiatives. Building on my strong foundation in Python and SQL, I am well-equipped to tackle complex challenges and drive innovative solutions.
 
