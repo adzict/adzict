@@ -4,11 +4,9 @@
 
 ## About me
 
-Passionate about harnessing the power of data to drive insights and innovation, I am a Data Scientist with a relentless curiosity for unraveling complex patterns and extracting actionable intelligence. Through professional development and hands-on projects, I have cultivated a robust skillset like data transformation, wrangling, visualization, and analysis. Leveraging Python, SQL, and a suite of Data science libraries, I have successfully tackled projects ranging from sentiment analysis on Yelp reviews to in-depth business case analysis on box office success. Guided by seasoned mentors, I have also deployed streamlit apps and unsupervised models, delivering compelling insights and driving data-driven decision-making.
+Passionate about leveraging data to make a positive impact, I am an experienced Data Scientist with a track record of client-oriented contracts, specializing in prediction and forecasting, data analysis, and proficient database handling. Integrating hands-on experience from various client projects, I have also had the privilege of working with seasoned data science mentors who guided me through various projects.
 
-With a strong drive for professional growth, I am highly motivated to collaborate with industry experts, learn from their expertise, and contribute to the success of a dynamic organization. Equipped with a strong educational foundation and practical experience, I am eager to leverage my skills to solve complex business challenges and drive data-led strategies.
-
-Let's connect to explore how my passion for data and commitment to professional development can add value to your business.
+Besides client contracts, I am currently taking the initiative to create and deploy a test version of a data-driven application in Python, addressing the specific needs of a Mental Health Business in Serbia. This independent project showcases my proactive approach to applying my skills in real-world scenarios. My dedication to professional growth has led me to transition into a data engineering career, actively learning about ETL and ELT processes, mastering Data Pipelines, and exploring tools like Spark and Airflow. I am excited about the prospect of contributing my diverse skill set to further advance your organization's data initiatives. Building on my strong foundation in Python and SQL, I am well-equipped to tackle complex challenges and drive innovative solutions.
 
 ## My projects
 
